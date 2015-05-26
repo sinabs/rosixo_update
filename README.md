@@ -4,8 +4,8 @@
 
 About rosixo_update Repository
 ===================================
->This is just update app repo do not fork do not submit pull reqs
->The app install for [wwww.rosixo.com](http://wwww.rosixo.com)
+*This is just update app repo do not fork do not submit pull reqs
+*The app install for [wwww.rosixo.com](http://wwww.rosixo.com)
 
 ## Thanks
 
