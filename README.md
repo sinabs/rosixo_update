@@ -1,3 +1,7 @@
+
+[![Version](https://img.shields.io/badge/version-1.00-green.svg)](https://github.com/sinabs/rosixo_update)
+[![Platform](https://img.shields.io/badge/Platform-ios-green.svg)](https://github.com/sinabs/rosixo_update)
+
 About rosixo_update Repository
 ===================================
 This is just update app repo do not fork do not submit pull reqs
