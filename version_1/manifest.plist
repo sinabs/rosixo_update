@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>items</key>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://https://raw.githubusercontent.com/sinabs/rosixo_update/master/version_1/rosix-obj.ipa</string>
+					<string>https://raw.githubusercontent.com/sinabs/rosixo_update/master/version_1/rosix-obj.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://https://raw.githubusercontent.com/sinabs/rosixo_update/master/disp.png</string>
+					<string>https://raw.githubusercontent.com/sinabs/rosixo_update/master/disp.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://https://raw.githubusercontent.com/sinabs/rosixo_update/master/full.png</string>
+					<string>https://raw.githubusercontent.com/sinabs/rosixo_update/master/full.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
