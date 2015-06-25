@@ -1,6 +1,6 @@
 {
-	"required_version":"1",
+	"required_version":"1.01",
 	"type":"force",
 	"update_url":"http://www.rosixo.com",
-	"update_text":"这个是个新版本"
+	"update_text":"发布1.01版本\n优化图片加载速度\n优化图片预留模式"
 }
