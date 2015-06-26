@@ -1,6 +1,6 @@
 {
-	"required_version":"1.01",
+	"required_version":"1.02",
 	"type":"force",
-	"update_url":"http://www.rosixo.com",
-	"update_text":"发布1.01版本\n优化图片加载速度\n优化图片预留模式"
+	"update_url":"https://rosi.avosapps.com",
+	"update_text":"发布1.02版本\n修复闪退的bug\n添加换一换功能"
 }
